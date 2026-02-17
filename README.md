@@ -58,11 +58,10 @@ The parameters are estimated from the transformed data \( z \):
 
 The following parameters are computed:
 
-- Mean (\( μ \)) = [Your Value]
-- Lambda (\( λ \)) = [Your Value]
-- Constant (\( c \)) = [Your Value]
+- Mean (\( μ \)) = 23.785432741726165
+- Lambda (\( λ \)) = 0.0020588498693376958
+- Constant (\( c \)) = 0.025599848975695037
 
-These values are submitted as required.
 
 ---
 
